@@ -1,7 +1,7 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  my_shopping_list = {"apples" => 5, "soap" => 1, "ice cream"=> 1, "carrots" =>2}
   
+  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 end
 
 
